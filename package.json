@@ -1,0 +1,23 @@
+{
+  "name": "comming-soon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevSimas/comming-soon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevSimas/comming-soon/issues"
+  },
+  "homepage": "https://github.com/DevSimas/comming-soon#readme",
+  "description": "",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
